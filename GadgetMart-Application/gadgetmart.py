@@ -104,7 +104,7 @@ class Gadmart(tk.Frame):
         self.lgbtn.grid(row=0,column=5,ipadx=10,pady=10)
         
         #Product 1
-        self.imac = tk.PhotoImage(file='imac.png')
+:\Users\Yash Mathur\Desktop
         self.imag = tk.Label(self.hFrame,image=self.imac)
         self.imag.grid(row=1,column=0,ipadx=20,pady=20)
         self.imacinfo = tk.Text(self.hFrame,width=20,height=10)
